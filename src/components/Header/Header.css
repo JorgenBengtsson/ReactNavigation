@@ -1,0 +1,14 @@
+.header {
+  background-color: black;
+  padding: 20px;
+}
+
+.header a {
+  color: azure;
+  text-decoration: none;
+  margin-right: 20px;
+}
+
+.login {
+  float: right;
+}
